@@ -1,1 +1,3 @@
 hello
+
+feature2() //added feature 2
